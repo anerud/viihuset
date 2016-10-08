@@ -36,7 +36,17 @@ final class SysAdminController implements iController{
 
 		$router->map('POST', '/sysadmin/[a:brf]',
 			function($brf) {
-				echo $brf;
+				$validity_period = $_POST["validity_period"];
+				$activated = isset($_POST["activated"]);
+				$domain_name = $_POST["domain_name"];
+				$this->dbContext->updateBrfFromSysadmin(
+					$brf,
+					$validity_period,
+					$activated,
+					$domain_name
+				);
+				header("Location: /sysadmin/".$brf);
+				return;
 			},
 			NULL,
 			function(){return UserLevels::$userLevels["sysadmin"];}

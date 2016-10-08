@@ -477,6 +477,29 @@ final class DatabaseContext {
 		$STMT->execute();
 	}
 
+	public function updateBrfFromSysadmin(
+		$brf,
+		$validity_period,
+		$activated,
+		$domain_name
+	) {
+		$sql = "
+			UPDATE vih2_brf SET
+			validity_period = ?,
+			activated = ?,
+			domain_name = ?
+			WHERE name = ?
+		";
+		$STMT = $this->connection->prepare($sql);
+		$STMT->bind_param(
+			"siss",
+			$validity_period,
+			$activated,
+			$domain_name,
+			$brf
+		);
+		$STMT->execute();
+	}
 
 
 	/*

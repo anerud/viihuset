@@ -72,7 +72,8 @@ class SysAdminView implements iView{
 		                </tr>
 
 		                <tr>
-		                    <td><input type='text' class="form-input-basic" name='validity_period' value='<?php echo $this->currentBrf->validity_period?>' /></td>
+							<?php $validity_period = $this->currentBrf->validity_period == null ? "" : explode(" ", $this->currentBrf->validity_period)[0]; ?>
+		                    <td><input type='date' class="form-input-basic" name='validity_period' value='<?php echo $validity_period?>'/></td>
 		                    <td><input type='checkbox' name='activated' <?php echo $this->currentBrf->activated ? 'checked' : ''?>/></td>
 		                </tr>
 
