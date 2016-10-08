@@ -1,0 +1,690 @@
+[10-Sep-2016 11:57:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[10-Sep-2016 11:57:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[10-Sep-2016 11:57:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[10-Sep-2016 12:38:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /Users/anerud/github/Viihuset/index.php on line 75
+[10-Sep-2016 13:02:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$linkReplaces' (T_VARIABLE) in /Users/anerud/github/Viihuset/index.php on line 60
+[10-Sep-2016 13:03:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[10-Sep-2016 13:03:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[10-Sep-2016 13:03:18 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 20:36:43 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 83
+[14-Sep-2016 20:36:43 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[14-Sep-2016 20:36:43 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[14-Sep-2016 20:36:43 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 20:36:45 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 83
+[14-Sep-2016 20:36:45 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[14-Sep-2016 20:36:45 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[14-Sep-2016 20:36:45 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[14-Sep-2016 20:53:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[14-Sep-2016 21:03:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$dbContext' (T_VARIABLE) in /Users/anerud/github/Viihuset/index.php on line 29
+[14-Sep-2016 21:11:38 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 270
+[14-Sep-2016 21:11:38 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/index.php on line 270
+[14-Sep-2016 21:13:16 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 270
+[14-Sep-2016 21:13:16 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/index.php on line 270
+[14-Sep-2016 21:13:19 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 270
+[14-Sep-2016 21:13:19 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/index.php on line 270
+[14-Sep-2016 21:18:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /Users/anerud/github/Viihuset/controllers/LoginController.php on line 17
+[14-Sep-2016 21:22:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[14-Sep-2016 21:22:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[14-Sep-2016 21:22:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 21:22:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[14-Sep-2016 21:22:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[14-Sep-2016 21:22:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 21:22:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[14-Sep-2016 21:22:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[14-Sep-2016 21:22:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 21:23:49 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[14-Sep-2016 21:23:49 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[14-Sep-2016 21:23:49 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 21:24:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[14-Sep-2016 21:24:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[14-Sep-2016 21:24:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 21:44:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in /Users/anerud/github/Viihuset/controllers/SysAdminController.php on line 29
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:45:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:45:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[14-Sep-2016 21:47:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[14-Sep-2016 21:47:35 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[14-Sep-2016 21:47:35 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[14-Sep-2016 21:47:35 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[14-Sep-2016 21:52:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 18
+[14-Sep-2016 21:54:29 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[14-Sep-2016 21:55:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'adminpanellink' (T_STRING), expecting ',' or ';' in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 17
+[14-Sep-2016 21:58:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'sysadmin' (T_STRING), expecting ',' or ';' in /Users/anerud/github/Viihuset/index.php on line 273
+[14-Sep-2016 22:03:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 15
+[19-Sep-2016 18:07:20 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[19-Sep-2016 18:07:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[19-Sep-2016 18:14:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[19-Sep-2016 18:14:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[19-Sep-2016 18:14:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[19-Sep-2016 18:15:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[19-Sep-2016 18:15:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[19-Sep-2016 18:15:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[19-Sep-2016 18:15:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[19-Sep-2016 18:15:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[19-Sep-2016 18:15:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[19-Sep-2016 18:23:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[19-Sep-2016 18:23:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[19-Sep-2016 18:23:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[29-Sep-2016 19:04:45 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[29-Sep-2016 19:04:47 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[29-Sep-2016 19:11:58 Europe/Berlin] PHP Warning:  Missing argument 2 for SysAdminView::__construct(), called in /Users/anerud/github/Viihuset/controllers/SysAdminController.php on line 16 and defined in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 10
+[29-Sep-2016 19:11:58 Europe/Berlin] PHP Notice:  Undefined variable: currentBrf in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 12
+[29-Sep-2016 19:14:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 32
+[29-Sep-2016 19:14:23 Europe/Berlin] PHP Notice:  Undefined variable: currentBrf in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 30
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:29:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[29-Sep-2016 19:29:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[29-Sep-2016 19:29:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[29-Sep-2016 19:29:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[29-Sep-2016 19:45:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[29-Sep-2016 19:45:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[29-Sep-2016 19:45:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[29-Sep-2016 19:45:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[29-Sep-2016 19:45:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[29-Sep-2016 19:45:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[29-Sep-2016 19:47:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[29-Sep-2016 19:47:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 24
+[29-Sep-2016 19:47:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 25
+[29-Sep-2016 19:57:53 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[29-Sep-2016 19:58:05 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[29-Sep-2016 19:59:39 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[29-Sep-2016 19:59:39 Europe/Berlin] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /Users/anerud/github/Viihuset/index.php on line 121
+[29-Sep-2016 20:00:52 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[29-Sep-2016 20:00:52 Europe/Berlin] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, no array or string given in /Users/anerud/github/Viihuset/index.php on line 121
+[08-Oct-2016 08:37:17 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[08-Oct-2016 08:37:19 Europe/Berlin] PHP Notice:  Undefined variable: posBrf in /Users/anerud/github/Viihuset/index.php on line 86
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:38:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:39:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:40:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:43:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 09:44:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 09:49:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1417
+[08-Oct-2016 09:49:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 26
+[08-Oct-2016 09:49:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 27
+[08-Oct-2016 09:49:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 16
+[08-Oct-2016 09:49:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 17
+[08-Oct-2016 10:13:41 Europe/Berlin] PHP Notice:  Undefined property: Brf::$validity_period in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 65
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:23:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 16
+[08-Oct-2016 10:23:53 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 17
+[08-Oct-2016 10:23:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1418
+[08-Oct-2016 10:23:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 28
+[08-Oct-2016 10:23:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 29
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:40:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:40:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 16
+[08-Oct-2016 10:40:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 17
+[08-Oct-2016 10:40:39 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1418
+[08-Oct-2016 10:40:39 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 28
+[08-Oct-2016 10:40:39 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 29
+[08-Oct-2016 10:41:20 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:41:20 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:41:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 16
+[08-Oct-2016 10:41:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 17
+[08-Oct-2016 10:41:42 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:41:42 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:41:42 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 16
+[08-Oct-2016 10:41:42 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 17
+[08-Oct-2016 10:53:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 16
+[08-Oct-2016 10:53:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 17
+[08-Oct-2016 10:53:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1418
+[08-Oct-2016 10:53:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 28
+[08-Oct-2016 10:53:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 29
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:51 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/messageBoard/MessageBoardAdminView.php on line 19
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:58:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/document/DocumentAdminView.php on line 62
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/document/DocumentAdminView.php on line 62
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/document/DocumentAdminView.php on line 62
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/document/DocumentAdminView.php on line 62
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:00 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Undefined index:  in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 43
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 50
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/index.php on line 290
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Undefined variable: daysLeft in /Users/anerud/github/Viihuset/index.php on line 293
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/boardChat/BoardChatAdminView.php on line 19
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 18
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 22
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 29
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 34
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 41
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoAdminView.php on line 47
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/interfaces/AbstractModule.php on line 32
+[08-Oct-2016 10:59:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 16
+[08-Oct-2016 10:59:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/moduleInfo/ModuleInfoView.php on line 17
+[08-Oct-2016 10:59:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1418
+[08-Oct-2016 10:59:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 28
+[08-Oct-2016 10:59:14 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 29
+[08-Oct-2016 11:00:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/DataContext/DatabaseContext.php on line 1418
+[08-Oct-2016 11:00:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 28
+[08-Oct-2016 11:00:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/controllers/SalesController.php on line 29
+[08-Oct-2016 11:05:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 46
+[08-Oct-2016 11:05:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 58
+[08-Oct-2016 11:05:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 59
+[08-Oct-2016 11:05:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 73
+[08-Oct-2016 11:05:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 74
+[08-Oct-2016 11:05:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 86
+[08-Oct-2016 11:05:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in /Users/anerud/github/Viihuset/views/sysadmin/SysAdminView.php on line 94

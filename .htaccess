@@ -1,0 +1,8 @@
+RewriteBase /
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . index.php [L]
+
+php_value error_reporting 2047
+php_value error_log error.log
+php_value log_errors_max_len 52428800

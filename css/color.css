@@ -1,0 +1,837 @@
+* {
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+html, body {
+}
+body {
+	background-color: #fafbf5;
+	color: #464646;
+}
+button,
+input,
+select,
+textarea,
+.dropdown {
+	background-color: #fff;
+	border: 1px solid #c6dade;
+	color: #437182;
+}
+textarea {
+}
+textarea.big {
+}
+input:focus,
+textarea:focus {
+	box-shadow: 0px 0px 2px 0px #a7d6e3;
+}
+input[type=checkbox],
+input[type=radio] {
+}
+input[readonly] {
+	color: grey;
+}
+label {
+}
+.extend {
+}
+button[type=submit] {
+}
+::-moz-selection {
+    background: #D3224A;
+	color: #fff;
+}
+::selection {
+    background: #D3224A;
+	color: #fff;
+}
+::-webkit-input-placeholder {
+}
+:-moz-placeholder {
+}
+::-moz-placeholder {
+}
+:-ms-input-placeholder {
+}
+a {
+	color: #3e3e3e;
+}
+a:hover {
+	color: #595858;
+}
+pre {
+}
+img {
+}
+.wrap {
+	background: transparent url(../gfx/bottom.png) no-repeat left bottom;
+	border-bottom: 12px solid #a6c02b;
+	border-top: 12px solid #cfe658;
+}
+.enclose {
+}
+.slider {
+	background: transparent url(../gfx/sliderBg.png) repeat 0 0;
+	border: 2px solid #e4efe9;
+	color: #373938;
+}
+.slider.about .content {
+}
+.slider.contact .content {
+}
+.slider.about .text {
+}
+.slider h2 {
+	color: #373938;
+}
+.slider p {
+}
+.slider .content {
+	background: transparent url(../gfx/sliderHome.png) no-repeat right bottom;
+}
+.slider .text {
+}
+.slider .bubble {
+	background: transparent url(../gfx/bubble.png) no-repeat 0 0;
+	color: #fff;
+}
+.slider .bubble a {
+	border-bottom: 1px solid #fff;
+	color: #fff;
+}
+.corp .enclose {
+}
+.corp .content {
+}
+.corp .header {
+}
+.corp .logo {
+}
+.corp .header .nav {
+}
+.corp .nav li {
+}
+.corp .header a.hem { background-image: url(../gfx/navHem.png); }
+.corp .header a.forening { background-image: url(../gfx/navForening.png); }
+.corp .header a.kontakt { background-image: url(../gfx/navKontakt.png); }
+.corp .header .hem.ac { background-image: url(../gfx/corpHem.png); }
+.corp .header .forening.ac { background-image: url(../gfx/corpForening.png); }
+.corp .header .kontakt.ac { background-image: url(../gfx/corpKontakt.png); }
+.corp .header .nav a {
+}
+.corp .nav .ac {
+	color: #a7db41;
+}
+.nav > li {
+}
+.corp .sidebar {
+}
+.corp .about .sidebar:first-child {
+}
+.contact .side {
+}
+.contact .con h4 {
+}
+.corp .contact .side li {
+}
+.corp .contact .side p {
+}
+.corp .con {
+}
+.corp h3 {
+	color: #434343;
+}
+.corp h4 {
+	background-color: #cfe658;
+	color: #2c302f;
+}
+.corp h4:after {
+}
+.corp .list b {
+	color: #373938;
+}
+.corp .list li {
+	color: #373938;
+}
+.corp .list p {
+}
+.corp .about .sidebar {
+}
+.corp .about .list li {
+}
+.about .sidebar:before {
+	border-right: 1px dotted #c0d1d8;
+}
+.about .sidebar:first-child:before {
+}
+.about h4 {
+}
+.team .text {
+}
+.team .text p {
+}
+.pitch {
+	background: transparent url(../gfx/pitch.png) no-repeat 0 0;
+}
+.step1,
+.step2,
+.step3 {
+}
+.step1 {
+}
+.step2 {
+}
+.step3 {
+}
+.f22 {
+}
+.f24 {
+}
+.f30 {
+}
+.f33 {
+}
+.f42 {
+}
+.f42 span {
+}
+.f46 {
+}
+.offer {
+	background-color: #cfe658;
+	border-bottom: 9px solid #a4bf24;
+	color: #464845;
+}
+.offer span {
+	color: #fff;
+}
+.jour {
+}
+.team h5 {
+	color: #373938;
+}
+.team p,
+.avtal p {
+	color: #373938;
+}
+.avtal p {
+}
+.teammates {
+}
+.teammates li {
+}
+.teammates li span {
+}
+.teammates .last {
+}
+.teammates img {
+}
+.blue {
+	color: #4f9bb8;
+}
+.sidebar {
+}
+.logo {
+	border-bottom: 1px dotted #b7cbd4;
+}
+.sidebar .nav {
+}
+.sidebar .nav > li {
+	border-bottom: 1px dotted #b7cbd4;
+}
+.sidebar .link {
+	color: #69696c;
+}
+.nav .link.a {
+	background-color: #cfe658;
+	color: #fff;
+}
+.link.hem { background-image: url(../gfx/navHem.png); }
+.link.nyckel { background-image: url(../gfx/navNyckel.png); }
+.link.skapa { background-image: url(../gfx/navSkapa.png); }
+.link.bas { background-image: url(../gfx/navBas.png); background-position: 13px 5px; }
+.link.forening { background-image: url(../gfx/navForening.png); }
+.link.omgivning { background-image: url(../gfx/navOmgivning.png); }
+.link.maklarinfo { background-image: url(../gfx/navMaklarinfo.png); }
+.link.fotoalbum { background-image: url(../gfx/navFotoalbum.png); }
+.link.anslagstavlan { background-image: url(../gfx/navAnslagstavlan.png); }
+.link.kontakt { background-image: url(../gfx/navKontakt.png); }
+.link.a.nyckel { background-image: url(../gfx/navNyckelActive.png); }
+.link.a.skapa { background-image: url(../gfx/navSkapaActive.png); }
+.link.a.hem { background-image: url(../gfx/navHemActive.png); }
+.link.a.bas { background-image: url(../gfx/navBasActive.png); }
+.link.a.forening { background-image: url(../gfx/navForeningActive.png); }
+.link.a.omgivning { background-image: url(../gfx/navOmgivningActive.png); }
+.link.a.maklarinfo { background-image: url(../gfx/navMaklarinfoActive.png); }
+.link.a.fotoalbum { background-image: url(../gfx/navFotoalbumActive.png); }
+.link.a.anslagstavlan { background-image: url(../gfx/navAnslagstavlanActive.png); }
+.link.a.kontakt { background-image: url(../gfx/navKontaktActive.png);  }
+.footer .link{ background-size: 15px; background-position: 10px center; }
+.footer .link.a { background-color: transparent !important; }
+.nav.admin .link.a {
+	background-color: #4f9bb8;
+}
+.admin .sidebar .link.a.anslagstavlan { background-image: url(../gfx/navAnslagstavlanActiveBlue.png); }
+.nav.admin .link.a:after {
+}
+.nav .link.a:after {
+	background:  transparent url(../gfx/activeNav.png) no-repeat right top;
+}
+.content {
+	border-left: 1px dotted #b7cbd4;
+}
+.header {
+	border-bottom: 1px dotted #b7cbd4;
+}
+.header .start {
+	color: #4f9bb8;
+}
+.header.push h2 {
+}
+.search {
+}
+.results {
+	background-color: #fff;
+	border: 1px solid #C6DADE;
+	color: #555555;
+}
+input[name=search] {
+}
+.con .search {
+}
+.con .results {
+}
+.con input[name=search] {
+}
+.begin,
+.auth,
+.init {
+	background-color: #4f9bb8;
+	border: 1px solid #fff;
+	box-shadow: 0 0 6px 1px #a2a2a2;
+	color: #fff;
+}
+.init {
+}
+.auth {
+	background-color: #a7db41;
+}
+h1 {
+	border-bottom: 1px dotted #b7cbd4;
+	color: #69696c;
+}
+h2 {
+	color: #69696c;
+}
+h3,
+span.headline {
+	color: #69696c;
+}
+h3:first-child {
+}
+span.headline {
+}
+h1:before {
+	background-color: transparent;
+}
+h1.bas:before {
+}
+h1.hem:before {
+}
+h1.forening:before {
+}
+h1.omgivning:before {
+}
+h1.maklarinfo:before {
+}
+h1.fotoalbum:before {
+}
+h1.anslagstavlan:before {
+}
+.info h3 {
+	color: #a7db41;
+}
+h2 > span,
+h3 > span {
+	background: transparent url(../gfx/top.png) no-repeat center center;
+}
+h4 {
+	background-color: #4f9bb8;
+	color: #fff;
+}
+h4:after {
+	background: transparent url(../gfx/headline.png) no-repeat right top;
+}
+h5 {
+	color: #4f9bb8;
+}
+.header .info {
+	color: #4f9bb8;
+}
+.login,
+.return,
+.submit {
+	background-color: #a7db41;
+	color: #fff;
+}
+.return {
+}
+.submit {
+}
+.submit.save {
+	background: #a7db41 url(../gfx/save.png) no-repeat 10px 11px;
+}
+.submit.save.admin {
+}
+.submit.save:hover {
+}
+.submit.preview {
+	background: #4f9bb8 url(../gfx/preview.png) no-repeat 10px 11px;
+}
+.submit.navigate {
+	background-color: #fbc33d;
+}
+.submit.mail {
+	background: #4f9bb8 url(../gfx/mail.png) no-repeat 10px 9px;
+	color: #fff !important;
+}
+.mail.image {
+}
+p.preview {
+}
+.preview a {
+	color: #4f9bb8;
+}
+.page-next {
+}
+.page-next:after,
+.page-prev:after {
+	background: transparent url(../gfx/nextPage.png) no-repeat 0 0;
+}
+.page-prev:after {
+}
+.submit.remove {
+	background: #ee5c5c url(../gfx/remove.png) no-repeat 10px 9px;
+}
+.add {
+}
+.add.admin {
+}
+.submit.addnew {
+	background: #4f9bb8 url(../gfx/add.png) no-repeat 10px 9px;
+}
+.submit.person {
+}
+.addnew.person {
+}
+.remove.person {
+}
+.submit.blue {
+	background-color: #4f9bb8;
+}
+.addnew.load {
+}
+.people {
+}
+.minimize {
+}
+.main {
+}
+.con {
+}
+.con.maklarinfo,
+.con.fotoalbum {
+}
+.con.maklarinfo {
+}
+.con.push {
+}
+.con .info {
+	border-bottom: 1px dotted #b7cbd4;
+}
+.cInfo .info {
+}
+.fotoalbum .info {
+}
+.fotoalbum .image {
+	background-color: #000;
+}
+.image .item {
+}
+.image.last {
+}
+.image.first {
+}
+.info.last {
+}
+.con .info > p {
+}
+.con .info a,
+.table a,
+.email,
+.avtal a {
+	border-bottom: 1px solid #4f9bb8;
+	color: #4f9bb8;
+}
+.avtal a {
+}
+.upload {
+}
+.upload input {
+}
+.upload input[type=file] {
+}
+.show {
+}
+.ajax {
+}
+.fError {
+	color: #EE5C5C;
+}
+.attached {
+	background-color: #e9f6ef;
+}
+.attached .bb {
+}
+.attached.i {
+}
+.attached.p70 {
+}
+.attached div > span {
+}
+.attached a > span {
+	color: #8f8f91;
+}
+.attached a {
+	color: #69696c !important;
+}
+.attached a:hover,
+.attached span:hover {
+}
+.important-info {
+	background-color: #e9f6ef;
+}
+.important-info h5 {
+}
+.important-info a {
+}
+.important-info p {
+	color: #69696c;
+}
+.important-info input,
+.message input {
+}
+.important-info .submit {
+	color: #fff !important;
+}
+.important-info.special .submit,
+.message .submit {
+}
+.message .submit {
+}
+.message input {
+}
+.important-info .i-wrap {
+}
+.important-info .i-wrap h5 {
+	color: #69696c;
+}
+.important-info .i-wrap .submit {
+}
+.important-info .check {
+}
+.important-info .check input {
+}
+.important-info .check label {
+	color: #6C7881;
+}
+.important-info .mail {
+}
+.message {
+}
+.message h5 {
+	color: #69696c;
+}
+.message h5 span {
+}
+.message .remove {
+}
+.mess p {
+}
+.mess p:first-child {
+}
+.mess, .e-list {
+	background-color: #fff;
+	border: 1px solid #c6dade;
+	color: #437182;
+}
+.mess .e-list {
+}
+.m-list {
+}
+.e-list img {
+}
+.b_where {
+	color: #4f9bb8;
+}
+.check {
+}
+.pdf {
+	background: transparent url(../gfx/pdf.png) no-repeat 0px 4px;
+}
+.xls {
+	background: transparent url(../gfx/excel.png) no-repeat 0px 4px;
+}
+.doc {
+	background: transparent url(../gfx/word.png) no-repeat 0px 4px;
+}
+.ppt {
+	background: transparent url(../gfx/powerpoint.png) no-repeat 0px 4px;
+}
+.table {
+	border-top: 1px dashed #B7CBD4;
+}
+.table:first-child {
+}
+.table:first-child p {
+}
+.table p {
+}
+.table .thb {
+}
+.thb.id {
+}
+.table .name {
+}
+.table .size {
+}
+.table .modify {
+}
+.table .sure {
+	color: #c83232;
+}
+.t-admin .name {
+}
+.t-admin .modify {
+}
+#google {
+}
+.number .bb {
+}
+.bb a {
+}
+.li {
+	background: transparent url(../gfx/sideArrow.png) no-repeat 4px 7px;
+}
+.side {
+	border-left: 1px dotted #b7cbd4;
+}
+.side.full {
+}
+.side .ext {
+}
+.side .ext a {
+	color: #4f9bb8;
+}
+.side .ext p {
+}
+.list > li {
+	background: transparent url(../gfx/sideArrow.png) no-repeat left 4px;
+	color: #437182;
+}
+.list > li.down {
+}
+.list > li > b {
+}
+.contact.list li {
+}
+.contact.list li.hus {
+}
+.contact.list li.epost {
+}
+.contact.list li.ppl {
+}
+.contact.list li.tfn {
+}
+.list.hide p,
+input.hide {
+}
+.list .hide {
+}
+.list p {
+}
+.list a {
+	color: #437182;
+}
+.list.contact li {
+}
+.contact .email {
+}
+.form {
+	border-bottom: 1px dotted #b7cbd4;
+}
+.i-wrap {
+	border-top: 1px dotted #b7cbd4;
+}
+.i-wrap:first-child {
+}
+.i-wrap.last {
+}
+.droplist {
+}
+.dropdown {
+}
+.dropdown.open {
+	box-shadow: 0 1px 3px 0 #ccc;
+}
+div.dropdown:after {
+	background: #d2edf4 url(../gfx/dropdown.png) no-repeat right 0;
+	border-left: 1px solid #C6DADE;
+	box-shadow: 1px 0 0 #fff inset;
+}
+ul.dropdown {
+}
+.dropdown li {
+}
+.dropdown .a {
+	background: #e2f1f4 url(../gfx/tick.png) no-repeat 98% 8px;
+}
+.dropdown li:hover {
+	background-color: #e2f1f4;
+}
+.form p {
+}
+.number {
+}
+.number.i {
+}
+.number,
+.maklarinfo .info > p {
+	color: #6c7881;
+}
+.admin .number,
+.maklarinfo .info > p {
+}
+.maklarinfo .info > p {
+}
+.maklarinfo .info {
+}
+.number input {
+}
+.number textarea {
+}
+.number input[type="radio"] {
+}
+input.mini { width: 35px; }
+input.small { width: 50px; }
+input.medium { width: 70px; }
+input.half-norm { width: 95px; }
+input.normal { width: 145px; }
+input.big { width: 220px; }
+input.massive { width: 300px; }
+input.full { width: 100%; }
+.admin .number > b {
+}
+.number > b {
+}
+.number > b:before {
+	background: transparent url(../gfx/sideArrow.png) no-repeat left top;
+}
+.maklarinfo .number > b:before {
+}
+.number li {
+}
+.number label {
+}
+.rok {
+}
+.rok li {
+}
+.push-up {
+}
+.push-out {
+}
+.push-out p {
+}
+.divide {
+}
+.divide input {
+}
+.divide input:nth-child(odd) {
+}
+.huvudbild {
+}
+.remember {
+	color: #6c7881;
+}
+.remember > input {
+}
+.remember label {
+}
+.forgot {
+	color: #6c7881;
+}
+.forgot.log {
+}
+.footer {
+	background-color: #d3eb57;
+}
+.footer .nav {
+}
+.footer .nav > li {
+}
+.footer .home {
+}
+.link {
+	background: transparent url(../gfx/hem.png) no-repeat 8px 3px;
+	border-left: 1px dotted #3e3e3e;
+}
+.footer .nav li:first-child a {
+}
+.link.bas { background-image: url(../gfx/bas.png); }
+.link.forening { background-image: url(../gfx/forening.png); }
+.link.omgivning { background-image: url(../gfx/omgivning.png); }
+.link.maklarinfo { background-image: url(../gfx/maklarinfo.png); }
+.link.fotoalbum { background-image: url(../gfx/fotoalbum.png); }
+.link.kontakt { background-image: url(../gfx/kontakt.png); }
+.notice {
+	background-color: #f3ed8c;
+	border: 1px solid #dbd241;
+}
+.error {
+	background-color: #fde4e1;
+	border-color: #fbd3c6;
+	color: #c83232;
+	xtext-shadow: 0 1px 0 #fff;
+}
+.success {
+	background-color: #dff2bf;
+	border-color: #adde5c;
+	color: #709527;
+}
+.success:before {
+	background: transparent url(../gfx/success.png) no-repeat 0 0;
+}
+.main > .notice,
+.notice.reverse {
+}
+#login .error,
+#password .error,
+#recover .error {
+}
+.clear {
+}
+.uSel {
+}
+.radius {
+}
+.radiusLeft {
+}
+.radiusBottom {
+}
+#sb-title {
+	background-color: #000;
+	background-color: rgba(0,0,0,0.7);
+}
+#sb-title-inner {
+}
+
