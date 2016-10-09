@@ -99,6 +99,7 @@ class SysAdminView implements iView{
 
 					</table>
 
+
 		            <br>
 		            <div id="savecon">
 		                <button id="save" class="button-blue">Spara</button>
@@ -114,8 +115,12 @@ class SysAdminView implements iView{
 					</script>
 
 				</form>
+
 			</div>
 
+		</div>
+		<div style='margin-top: 30px'>
+			<a href='/logout' class="button-blue">Logga ut</a>
 		</div>
 
 		<?php

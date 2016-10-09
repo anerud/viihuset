@@ -11,14 +11,25 @@ final class LoginController implements iController{
 
 		$router->map('GET', '/logout',
 			function() {
-				if(isset($_SESSION["user"])){
-					$brf = $_SESSION["user"]->brf;
+				# Destroy session
+				session_destroy();
+
+				# If user is set redirect to home page of user
+				if (!isset($_SESSION["user"])){
+						header("Location: /");
+				} else {
+					$user = $_SESSION["user"];
+
+					# redirect sysadmin to sales view
+					if (UserLevels::$userLevels[$user->userlevel] == UserLevels::$userLevels["sysadmin"]) {
+						header("Location: /");
+						return;
+					}
+
+					# Redirect user to home page of user
+					$brf = $user->brf;
 					$location = $brf == null ? '' : $brf."/hem";
-					session_destroy();
 					header("Location: /".$location);
-				}else{
-					session_destroy();
-					header("Location: /");
 				}
 			},
 			"",
