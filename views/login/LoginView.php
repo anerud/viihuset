@@ -41,7 +41,7 @@ class LoginView implements iView{
 					<br><br>
 					<div class='remember'>
 						<input id='r' type='checkbox' name='remember' value='1' tabindex='3' />
-						<label for='r'><span class="form-description">Kom ihåg mig</span></label>
+						<label for='r'><span class="form-description">Förbli inloggad</span></label>
 					</div>
 					<input type='hidden' name='returnUrl' value='<?php echo isset($_GET["returnUrl"]) ? $_GET["returnUrl"] : (isset($_POST["returnUrl"]) ? $_POST["returnUrl"] : false) ?>' style="display: none;" />
 					<br>
