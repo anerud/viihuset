@@ -40,6 +40,9 @@ abstract class AbstractModule implements iController{
 		}
 
 		$module = $this->dbContext->getModule($brf, $this->getModuleName());
+		if ($module == null) {
+			return null;
+		}
 		$required_userlevel = UserLevels::$userLevels[$module->userlevel];
 		if($level < $required_userlevel) {
 			return null;

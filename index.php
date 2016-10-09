@@ -83,7 +83,7 @@ if($match == null) {
 		$possibleBrf = $partsOfURL[1];
 
 		// Check if there exists a home module for possible brf
-		$mod = $dbContext->getModule($posBrf, "home");
+		$mod = $dbContext->getModule($possibleBrf, "home");
 
 		// If home module exists, redirect to it
 		if($mod != null){
