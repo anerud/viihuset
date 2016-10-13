@@ -22,9 +22,6 @@ setcookie(session_name(),session_id(),time()+$cookieLifetime);
 
 /* --- Init variables --- */
 
-// Number of demo days
-$nDemoDays = 30;
-
 //Open a db connection
 $dbContext = new DatabaseContext();
 
@@ -211,19 +208,13 @@ foreach($allLink as $l){
 // Clears the output buffer.
 ob_clean();
 
-//
 $banner = $dbContext->getBanner($currentBrf);
 $brfInfo = $dbContext->getBrfInfo($currentBrf);
-if ($brfInfo != null) {
-    $registered_at = new DateTime($brfInfo->registered_at);
-    $now = new DateTime();
-    $daysLeft = $nDemoDays - $now->diff($registered_at)->format("%a");
 
-    if($daysLeft < 0) {
-		// TODO: Create a view for this
-        echo "Din demo-tid är slut. Kontakta kundtjänst för mer info.";
-        return;
-	}
+// Validate that user demo time has not ended
+if (userDemoTimeHasEnded($brfInfo)) {
+    echo "Demo-tiden för den här sidan är slut. Kontakta kundtjänst för mer info.";
+    return;
 }
 
 // If this is a request for asset (like .js) just call that endpoint
@@ -756,6 +747,26 @@ function sort_modules($a, $b)
 		$bindex = $b["sortindex"];
 	}
     return $aindex - $bindex;
+}
+
+function userDemoTimeHasEnded($brfInfo) {
+	if ($brfInfo == null) {
+		return false;
+	}
+
+	if ($brfInfo->activated) {
+		return false;
+	}
+
+	$nDemoDays = 30;
+    $registered_at = new DateTime($brfInfo->registered_at);
+    $now = new DateTime();
+    $daysLeft = $nDemoDays - $now->diff($registered_at)->format("%a");
+
+    if($daysLeft < 0) {
+		session_destroy();
+		return true;
+	}
 }
 
 ?>
