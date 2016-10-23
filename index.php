@@ -212,9 +212,13 @@ $banner = $dbContext->getBanner($currentBrf);
 $brfInfo = $dbContext->getBrfInfo($currentBrf);
 
 // Validate that user demo time has not ended
-if (userDemoTimeHasEnded($brfInfo)) {
-    echo "Demo-tiden för den här sidan är slut. Kontakta kundtjänst för mer info.";
-    return;
+if ($brfInfo != null && !$brfInfo->activated) {
+	$demoDaysLeft = userDemoDaysLeft($brfInfo);
+    if($demoDaysLeft < 0) {
+		session_destroy();
+	    echo "Demo-tiden för den här sidan är slut. Kontakta kundtjänst för mer info.";
+	    return;
+	}
 }
 
 // If this is a request for asset (like .js) just call that endpoint
@@ -281,7 +285,7 @@ if(!$siteContent){
 						if(!$brfInfo->activated) {
 						?>
 							<div class="adminpaneldemo textcolor0">DEMO</div>
-							<div class="adminpaneldemotext textcolor0"><?php echo $daysLeft." dagar kvar";?><a class="textcolor4 orderToday" href="#">BESTÄLL IDAG</a></div>
+							<div class="adminpaneldemotext textcolor0"><?php echo $demoDaysLeft." dagar kvar";?><a class="textcolor4 orderToday" href="#">BESTÄLL IDAG</a></div>
 						<?php
 						}
 						?>
@@ -749,24 +753,12 @@ function sort_modules($a, $b)
     return $aindex - $bindex;
 }
 
-function userDemoTimeHasEnded($brfInfo) {
-	if ($brfInfo == null) {
-		return false;
-	}
-
-	if ($brfInfo->activated) {
-		return false;
-	}
-
+function userDemoDaysLeft($brfInfo) {
 	$nDemoDays = 30;
     $registered_at = new DateTime($brfInfo->registered_at);
     $now = new DateTime();
-    $daysLeft = $nDemoDays - $now->diff($registered_at)->format("%a");
-
-    if($daysLeft < 0) {
-		session_destroy();
-		return true;
-	}
+    $demoDaysLeft = $nDemoDays - $now->diff($registered_at)->format("%a");
+	return $demoDaysLeft;
 }
 
 ?>
