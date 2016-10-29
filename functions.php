@@ -148,11 +148,12 @@ function suspended($class = '') {
 }
 
 function errors($values) {
-	echo "<div class='notice error radius reverse'>";
+	echo "<div class='notice error radius reverse' style='color:red'>";
 	if(is_array($values) && count($values) > 0) {
 		foreach($values as $error)
 			printf("%s<br />\r\n", $error);
 	} else echo $values;
+	echo "<br>";
 	echo "</div>\r\n";
 }
 

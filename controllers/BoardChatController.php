@@ -158,6 +158,7 @@ final class BoardChatController extends AbstractModule implements MailingControl
 				//If there were errors.
 				if(count($errors) > 0) {
 					//Collect threads for the message board
+					$module = $this->dbContext->getModule($brf,"boardchat");
 					list($maxPage, $threads) = $this->dbContext->getPagedMBThreadsByBrfAndRank($brf, "board_member",$page);
 
 					$view = "BoardChatView";
