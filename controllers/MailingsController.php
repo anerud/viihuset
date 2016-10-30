@@ -102,14 +102,19 @@ final class MailingsController extends AbstractModule implements MailingControll
 				}
 
 				if (count($members) <= 0) {
-					echo "Inga medlemmar inlagda. Mail skickades inte!";
-					return;
+					$result = "Inga medlemmar inlagda. Mail skickades inte!";
+				} else {
+					// Send mail
+					$this->sendMailingsEmail($members, $subject, $message, $send_to);
+					$result = "Mail skickat! Det kan ta några minuter innan mailet kommer fram.";
 				}
 
-				// Send mail
-				$this->sendMailingsEmail($members, $subject, $message, $send_to);
 
-				echo "Mail skickat! Det kan ta några minuter innan mailet kommer fram.";
+				//Render view
+				$view = "MailSentView";
+				require_once("views/mailings/".$view.".php");
+				$viewObject = new $view($brf, $result);
+				$viewObject->render();
 			},
 			NULL,
 			function(){return UserLevels::$userLevels["board_member"];}
