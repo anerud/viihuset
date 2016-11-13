@@ -255,7 +255,7 @@ if(!$siteContent){
 					"insertdatetime media table contextmenu paste",
 					"template paste textcolor colorpicker textpattern imagetools"
 				],
-				toolbar: "insertfile undo redo | styleselect | forecolor backcolor | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image | preview"
+				toolbar: "insertfile undo redo | fontsizeselect styleselect | forecolor backcolor | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image | preview"
 			});
 		</script>
 	</head>
