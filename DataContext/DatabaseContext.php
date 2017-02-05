@@ -234,7 +234,8 @@ final class DatabaseContext {
 						from vih2_booking as b join vih2_booking_object as bo
 						on b.bookingObject = bo.id
 						where bo.brf = ?
-						order by b.start";
+						AND b.end >= current_date
+						order by b.start DESC";
 
 		require_once("model/booking/Booking.php");
 		$paramTypes = "s";
@@ -435,6 +436,18 @@ final class DatabaseContext {
 
     public function getBrfMembers($brf) {
 		$stmt = $this->connection->prepare("select * from vih2_brf_member where brf = ? and removed = false");
+        $stmt->bind_param("s", $brf);
+		$stmt->execute();
+		$result = $stmt->get_result();
+		include_once("model/brf/Member.php");
+		$objects = $this->createObjectsFromSQLResult($result, "Member");
+		return $objects;
+	}
+
+    public function getBoardMembers($brf) {
+		$stmt = $this->connection->prepare(
+            "select * from vih2_brf_member where brf = ? AND position = 'board_member' AND removed = false"
+		);
         $stmt->bind_param("s", $brf);
 		$stmt->execute();
 		$result = $stmt->get_result();

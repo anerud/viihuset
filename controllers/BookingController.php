@@ -167,24 +167,8 @@ final class BookingController extends AbstractModule implements MailingControlle
 					array_push($errors, "Du måste ange din email!");
 				}
 
-				if(!isset($_POST["phone"]) || empty($_POST["phone"])) {
-					array_push($errors, "Du måste ange din telefonnummer!");
-				}
-
 				if(!isset($_POST["bookingObject"]) || empty($_POST["bookingObject"])) {
 					array_push($errors, "Du måste ange vilket objekt du vill boka!");
-				}
-
-				if(!isset($_POST["apartment"]) || empty($_POST["apartment"])) {
-					array_push($errors, "Du måste ange ditt lägenhetsnummer!");
-				}
-
-				if(!isset($_POST["startDate"]) || empty($_POST["startDate"])) {
-					array_push($errors, "Du måste ange startdatum för bokningen!");
-				}
-
-				if(!isset($_POST["endDate"]) || empty($_POST["endDate"])) {
-					array_push($errors, "Du måste ange slutdatum för bokningen!");
 				}
 
                 if(!isset($_POST["startDate"]) || empty($_POST["startDate"])) {
@@ -213,7 +197,7 @@ final class BookingController extends AbstractModule implements MailingControlle
 				$lastName = $_POST["lastName"];
 				$email = $_POST["email"];
 				$phone = $_POST["phone"];
-				$bookingObject = $_POST["bookingObject"];
+				$bookingObjectId = $_POST["bookingObject"];
 				$apartment = $_POST["apartment"];
 				$start = $_POST["startDate"]." ".$_POST["startTime"].":00:00";
 				$end = $_POST["endDate"]." ".$_POST["endTime"].":00:00";;
@@ -221,7 +205,7 @@ final class BookingController extends AbstractModule implements MailingControlle
 				$accepted = 1;
 
 				$success = $this->dbContext->createBooking(
-                    $bookingObject,
+                    $bookingObjectId,
                     $firstName,
                     $lastName,
                     $email,
@@ -232,6 +216,18 @@ final class BookingController extends AbstractModule implements MailingControlle
                     $message,
                     $accepted
                 );
+
+                $bookingObject = $this->dbContext->getBookingObjectByIDAndBrf($bookingObjectId, $brf);
+
+                // Notify board of booking?
+                if ($bookingObject->notifyBoard) {
+                    $this->sendCopyToBoardEmail($brf, $bookingObject, $firstName, $lastName, $email, $phone, $apartment, $start, $end, $message);
+                }
+
+                // Send email confirmation to booker?
+                if ($bookingObject->sendConfirmation) {
+                    $this->sendConfirmationEmail($bookingObject, $email);
+                }
 
 				header("Location: /".$brf."/bokning");
 			},
@@ -299,6 +295,66 @@ final class BookingController extends AbstractModule implements MailingControlle
 	public function getRightColModule($currentBrf) {
 		require_once("views/rightcol/CalendarView.php");
 		return new CalendarView($this->getDefaultModule()->name);
+	}
+
+	private function sendConfirmationEmail($bookingObject, $email) {
+		// Construct subject
+		$subject = "Bokningsbekräftelse: ".$bookingObject->name;
+
+		// Send email
+		$result = $this->mailClient->sendMessage(
+			$this->mailDomain, array(
+			    'from'    => 'noreply@'.$this->mailDomain,
+			    'to'      => $email,
+			    'subject' => $subject,
+				'html'	  => $bookingObject->confirmationMessage
+			)
+		);
+	}
+
+	private function sendCopyToBoardEmail($brf, $bookingObject, $firstName, $lastName, $email, $phone, $apartment, $start, $end, $message) {
+		// Create string with all recipients
+		$recipients = $this->dbContext->getBoardMembers($brf);
+
+		if (count($recipients) <= 0) {
+			return;
+		}
+
+		$to = $recipients[0]->email;
+		for ($x = 1; $x < count($recipients); $x++) {
+			$email = $recipients[$x]->email;
+		    $to = $to.", ".$email;
+		}
+
+		// Construct subject
+		$subject = "Boking av objekt: ".$bookingObject->name;
+
+		if ($posterEmail == null) {
+			$posterEmail = "ingen email angiven";
+		}
+
+		// Contruct html
+		$html = "<b>Bokare: </b>".$firstName." ".$lastName
+		        ."<br>"
+				."<b>Email: </b>".$email
+		        ."<br>"
+				."<b>Telefon: </b>".$phone
+		        ."<br>"
+				."<b>Lägenhet: </b>".$apartment
+		        ."<br>"
+				."<b>Tidsintervall: </b>".$start." till ".$end
+		        ."<br>"
+				."<b>Meddelande: </b>".$message;
+
+		// Send email
+		$result = $this->mailClient->sendMessage(
+			$this->mailDomain, array(
+			    'from'    => 'noreply@'.$this->mailDomain,
+			    'to'      => $to,
+			    'subject' => $subject,
+				'html'	  => $html
+			)
+		);
 	}
 
 }
