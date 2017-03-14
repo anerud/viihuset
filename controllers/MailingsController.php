@@ -79,6 +79,8 @@ final class MailingsController extends AbstractModule implements MailingControll
 				$message = $_POST["message"];
 				$send_to = $_POST["send_to"];
 				$members = $this->dbContext->getBrfMembers($brf);
+				$brfinfo = $this->dbContext->getBrfInfo($brf);
+				$brfmail = $brfinfo->email;
 
 				// Filter out members to send to
 				if($send_to != "all") {
@@ -105,7 +107,7 @@ final class MailingsController extends AbstractModule implements MailingControll
 					$result = "Inga medlemmar inlagda. Mail skickades inte!";
 				} else {
 					// Send mail
-					$this->sendMailingsEmail($members, $subject, $message, $send_to);
+					$this->sendMailingsEmail($members, $subject, $message, $brfmail);
 					$result = "Mail skickat! Det kan ta några minuter innan mailet kommer fram.";
 				}
 
@@ -155,11 +157,11 @@ final class MailingsController extends AbstractModule implements MailingControll
 		return $module;
 	}
 
-	private function sendMailingsEmail($members, $subject, $message, $send_to) {
-		$to = $members[0]->email;
+	private function sendMailingsEmail($members, $subject, $message, $to) {
+		$bcc = $members[0]->email;
 		for ($x = 1; $x < count($members); $x++) {
 			$email = $members[$x]->email;
-		    $to = $to.", ".$email;
+		    $bcc = $bcc.", ".$email;
 		}
 
 		// Send email
@@ -167,6 +169,7 @@ final class MailingsController extends AbstractModule implements MailingControll
 			$this->mailDomain, array(
 			    'from'    => 'noreply@'.$this->mailDomain,
 			    'to'      => $to,
+			    'bcc'     => $bcc,
 			    'subject' => $subject,
 				'html'	  => $message
 			)
