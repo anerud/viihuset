@@ -606,6 +606,7 @@ hr{
 .page > .content > .contentcon > .middlecontent form textarea{
 	width: 100%;
 	padding: 10px;
+	height: 250px;
 }
 
 .page > .content > .contentcon > .middlecontent form.moduleInfoForm input[type=text]{
